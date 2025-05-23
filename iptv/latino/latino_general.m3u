@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Caracol" tvg-name="Caracol" group-title="Latinoamérica",Caracol
+https://stream.caracoltv.com/live/caracol.m3u8
+#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" group-title="Latinoamérica",Telefe
+https://stream.telefe.com/live/telefe.m3u8
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" group-title="Latinoamérica",TVN
+https://stream.tvn.cl/live/tvn.m3u8
+#EXTINF:-1 tvg-id="AméricaTV" tvg-name="América TV" group-title="Latinoamérica",América TV
+https://stream.americatv.com/live/americatv.m3u8
+#EXTINF:-1 tvg-id="Univision" tvg-name="Univision" group-title="Latinoamérica",Univision
+https://stream.univision.com/live/univision.m3u8
