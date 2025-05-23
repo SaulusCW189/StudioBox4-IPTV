@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TF1" tvg-name="TF1" group-title="Francia",TF1
+https://stream.tf1.fr/live/tf1.m3u8
+#EXTINF:-1 tvg-id="France2" tvg-name="France 2" group-title="Francia",France 2
+https://stream.france2.fr/live/france2.m3u8
+#EXTINF:-1 tvg-id="M6" tvg-name="M6" group-title="Francia",M6
+https://stream.m6.fr/live/m6.m3u8
+#EXTINF:-1 tvg-id="Arte" tvg-name="Arte" group-title="Francia",Arte
+https://stream.arte.tv/live/arte.m3u8
+#EXTINF:-1 tvg-id="C8" tvg-name="C8" group-title="Francia",C8
+https://stream.c8.fr/live/c8.m3u8
